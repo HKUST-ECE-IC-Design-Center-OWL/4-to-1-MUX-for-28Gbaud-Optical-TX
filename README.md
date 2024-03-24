@@ -4,4 +4,4 @@ If layout is required, kindly provide the following information via email for ve
 
 Required Information:
 
-Name: Country/Area: Institute: Position: Copy of your NDA with the foundry:
+Name; Country/Area; Institute; Position; Copy of your NDA with the foundry.
